@@ -4,7 +4,7 @@
 
 # 使用
 ```
-python3 main.py
+$ python3 main.py
 [+] Domain: hsien.test.example.com Status code: 302 Redirecting to: //evil.com/%2F../
 [-] Domain: www.test.example.com
 [+] Domain: voucher.test.example.com Status code: 302 Redirecting to: //evil.com/%2F../
