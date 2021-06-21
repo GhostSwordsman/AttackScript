@@ -7,7 +7,7 @@
 """
 
 import requests
-from urllib.parse import urlpars
+from urllib.parse import urlparse
 
 
 def exploit(domain:str):
